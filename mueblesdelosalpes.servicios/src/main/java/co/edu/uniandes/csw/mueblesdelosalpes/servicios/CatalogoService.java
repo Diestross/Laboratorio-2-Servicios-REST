@@ -31,6 +31,7 @@ public class CatalogoService {
     @EJB
     private IServicioCatalogoMockLocal catalogoEjb;
    
+    
  
     /**
      * Servicio que ofrece una lista JSON con el catálogo de Muebles de los alpes (Los muebles disponibles para la venta).
