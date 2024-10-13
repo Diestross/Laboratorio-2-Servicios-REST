@@ -12,6 +12,7 @@
 
 package co.edu.uniandes.csw.mueblesdelosalpes.dto;
 
+
 /**
  * Clase que representa una ciudad en el sistema
  * @author Juan Sebastián Urrego
